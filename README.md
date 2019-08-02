@@ -1,3 +1,3 @@
 # Devconnector
-Own project to deepen my knowledge in Sass and various front-end technologies.
+Own project to deepen my knowledge mainly in Sass and React.
 Idea from: Traversy Media
